@@ -14,31 +14,81 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts.js">
+      <file leaf-file-name="PT Free Font License_rus_1.2.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fonts/PT Free Font License_rus_1.2.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="251" column="72" lean-forward="true" selection-start-line="251" selection-start-column="72" selection-end-line="251" selection-end-column="72" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/styles.css">
+      <file leaf-file-name="adjust-bar_light_to.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/adjust-bar_light_to.svg">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4165">
-              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="0">
+              <caret line="0" column="353" lean-forward="false" selection-start-line="0" selection-start-column="353" selection-end-line="0" selection-end-column="353" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles.css">
+      <file leaf-file-name="panel__icon_clock.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/panel__icon_clock.svg">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="171" column="1" lean-forward="false" selection-start-line="171" selection-start-column="1" selection-end-line="171" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="0" column="281" lean-forward="false" selection-start-line="0" selection-start-column="281" selection-end-line="0" selection-end-column="281" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panel__icon_light_off.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/panel__icon_light_off.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="395" lean-forward="false" selection-start-line="0" selection-start-column="395" selection-end-line="0" selection-end-column="395" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panel__icon_light_on.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/panel__icon_light_on.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="375" lean-forward="false" selection-start-line="0" selection-start-column="375" selection-end-line="0" selection-end-column="375" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panel__icon_out.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/panel__icon_out.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="526" lean-forward="false" selection-start-line="0" selection-start-column="526" selection-end-line="0" selection-end-column="526" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panel__icon_temp_off.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/panel__icon_temp_off.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="327" lean-forward="false" selection-start-line="0" selection-start-column="327" selection-end-line="0" selection-end-column="327" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="panel__icon_temp_on.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/panel__icon_temp_on.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="172" lean-forward="false" selection-start-line="0" selection-start-column="172" selection-end-line="0" selection-end-column="172" />
               <folding />
             </state>
           </provider>
@@ -47,65 +97,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="408" column="41" lean-forward="false" selection-start-line="408" selection-start-column="41" selection-end-line="408" selection-end-column="41" />
+            <state relative-caret-position="191">
+              <caret line="196" column="28" lean-forward="false" selection-start-line="196" selection-start-column="24" selection-end-line="196" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/favicon.ico">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pt_sans.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fonts/pt_sans.css">
+      <file leaf-file-name="adjust-bar_light_from.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/adjust-bar_light_from.svg">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-102">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scripts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pt_sans.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pt_sans.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+              <caret line="0" column="338" lean-forward="false" selection-start-line="0" selection-start-column="338" selection-end-line="0" selection-end-column="338" />
               <folding />
             </state>
           </provider>
@@ -126,6 +129,7 @@
       <find>selectButton</find>
       <find>filter__select-butto</find>
       <find>paginator_</find>
+      <find>&lt;svg</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -135,6 +139,14 @@
         <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/pt_sans.css" />
+        <option value="$PROJECT_DIR$/assets/adjust-bar_light_from.svg" />
+        <option value="$PROJECT_DIR$/assets/adjust-bar_light_to.svg" />
+        <option value="$PROJECT_DIR$/assets/panel__icon_clock.svg" />
+        <option value="$PROJECT_DIR$/assets/panel__icon_light_off.svg" />
+        <option value="$PROJECT_DIR$/assets/panel__icon_light_on.svg" />
+        <option value="$PROJECT_DIR$/assets/panel__icon_out.svg" />
+        <option value="$PROJECT_DIR$/assets/panel__icon_temp_off.svg" />
+        <option value="$PROJECT_DIR$/assets/panel__icon_temp_on.svg" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -224,18 +236,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540387343910</updated>
-      <workItem from="1540387345705" duration="4184000" />
+      <workItem from="1540387345705" duration="4672000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4184000" />
+    <option name="totallyTimeSpent" value="4672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2164297" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2164297" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -357,10 +368,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/PT Free Font License_eng_1.2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/PT Free Font License_rus_1.2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/adjust-bar_light_from.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="338" lean-forward="false" selection-start-line="0" selection-start-column="338" selection-end-line="0" selection-end-column="338" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/adjust-bar_light_to.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="353" lean-forward="false" selection-start-line="0" selection-start-column="353" selection-end-line="0" selection-end-column="353" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/panel__icon_clock.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="281" lean-forward="false" selection-start-line="0" selection-start-column="281" selection-end-line="0" selection-end-column="281" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/panel__icon_light_off.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="395" lean-forward="false" selection-start-line="0" selection-start-column="395" selection-end-line="0" selection-end-column="395" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/panel__icon_light_on.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="375" lean-forward="false" selection-start-line="0" selection-start-column="375" selection-end-line="0" selection-end-column="375" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/panel__icon_out.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="526" lean-forward="false" selection-start-line="0" selection-start-column="526" selection-end-line="0" selection-end-column="526" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/panel__icon_temp_off.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="327" lean-forward="false" selection-start-line="0" selection-start-column="327" selection-end-line="0" selection-end-column="327" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/panel__icon_temp_on.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="172" lean-forward="false" selection-start-line="0" selection-start-column="172" selection-end-line="0" selection-end-column="172" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="408" column="41" lean-forward="false" selection-start-line="408" selection-start-column="41" selection-end-line="408" selection-end-column="41" />
+        <state relative-caret-position="191">
+          <caret line="196" column="28" lean-forward="false" selection-start-line="196" selection-start-column="24" selection-end-line="196" selection-end-column="28" />
           <folding />
         </state>
       </provider>
