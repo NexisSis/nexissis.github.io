@@ -170,9 +170,6 @@ img{
   top: 0;
   right: 40px;
 }
-.filter__select {
-  display: none;
-}
 .filter__item-label {
   display: inline-block;
   font-size: 13px;
