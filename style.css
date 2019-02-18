@@ -241,7 +241,7 @@ b {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgb(60, 60, 77);
+    background-color: black;
     opacity: 0;
     -webkit-transition: all .3s ease-in;
     transition: all .3s ease-in
@@ -259,7 +259,7 @@ a.project-item {
 
 @media (min-width: 769px) {
     a.project-item {
-        width:50%;
+        width:33%;
         float: left
     }
 }
