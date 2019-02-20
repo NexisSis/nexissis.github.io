@@ -198,6 +198,9 @@ b {
     .intro h1 {
         width: 100%
     }
+    .Hi{
+        width: 100%;
+    }
 }
 
 .intro .down {
